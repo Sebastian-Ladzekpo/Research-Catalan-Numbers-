@@ -17,11 +17,11 @@ numbers.
 
 Through a detailed analysis of these structures, the recursive properties of Catalan
 numbers are illustrated, alongside their combinatorial interpretations. Generating functions are
-employed to provide ecient means of deriving these numbers, oering a deeper understanding
+employed to provide effcient means of deriving these numbers, offering a deeper understanding
 of their underlying patterns and relationships.
 
 The results presented in this project underscore the usefulness of Catalan numbers in solving
 a wide range of mathematical problems, from counting parenthesis to evaluating Dyck paths.
-By highlighting their theoretical signicance, this research contributes to a more comprehensive
+By highlighting their theoretical signifcance, this research contributes to a more comprehensive
 understanding of Catalan numbers and their role in combinatorial mathematics.
 
